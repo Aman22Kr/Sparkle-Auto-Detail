@@ -1,8 +1,0 @@
-{
-  "name": "SparkleAutoDetail - Luxury Car Spa & Detailing",
-  "description": "Premium automotive detailing, ceramic coating, paint protection film (PPF), and deep steam spa. Real-time online appointment booking with live slot availability.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
